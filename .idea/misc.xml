@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (MLOps)" />
+  </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="e472e1a4-17aa-41e7-a476-c9f030a3d141" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (MLOps)" project-jdk-type="Python SDK" />
 </project>
